@@ -3,7 +3,7 @@
 Originally created and derived by [0xRajeev](https://twitter.com/0xRajeev), founder of Secureum, former Trail of Bits engineer and PhD holder.
 
 
-This repo details 10 secure design principles derived from Saltzer and Schroeder's design principles as applied to solidity smart contracts. It is the first part of piece of the puzzle that is my implementation of DevSecOps as applied to smart contracts.
+This repo details Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts. It is the first part of piece of the puzzle that is my implementation of DevSecOps as applied to smart contracts.
 
 The following design principles should be adhered to by blockchain developers intending to write secure code from the ground up and attain maximum value out of external smart contract audits. This list should be supplemented by the [Solcurity standard by Rari-Capital](https://github.com/Rari-Capital/solcurity)
 
