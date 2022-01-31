@@ -5,7 +5,7 @@ Originally created and derived by [0xRajeev](https://twitter.com/0xRajeev), foun
 
 This repo details Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts. It is the first part of piece of the puzzle that is my implementation of DevSecOps as applied to smart contracts.
 
-The following design principles should be adhered to by blockchain developers intending to write secure code from the ground up and attain maximum value out of external smart contract audits. This list should be supplemented by the [Solcurity standard by Rari-Capital](https://github.com/Rari-Capital/solcurity)
+The following design principles should be adhered to by blockchain developers intending to write secure code from the ground up and attain maximum value out of external smart contract audits. This list should be supplemented by the [Solcurity standard by Rari-Capital](https://github.com/Rari-Capital/solcurity) and the [Solidity DevSecOps standard](https://github.com/morphean-sec/Solidity-DevSecOps-Standard)
 
 1. Principle of Least Privilege: “Every program and every user of the system should operate using the least set of privileges necessary to complete the job” — Ensure that various system actors have the least amount of privilege granted as required by their roles to execute their specified tasks. Granting excess privilege is prone to misuse/abuse when trusted actors misbehave or their access is hijacked by malicious entities. (See Saltzer and Schroeder's Secure Design Principles)
 
